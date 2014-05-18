@@ -1,4 +1,4 @@
-I18nNavigationBootstrap
+I18nBootstrap
 =======================
 
 GetSimple CMS Plugin
